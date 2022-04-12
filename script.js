@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Font Sparrowsome
 // @namespace    https://github.com/mroqueda/font-sparrowsome/
-// @version      1.0
+// @version      1.1
 // @description  Oups, Font Awesome leaked
 // @author       mroqueda
 // @updateURL    https://raw.githubusercontent.com/mroqueda/font-sparrowsome/main/script.js
