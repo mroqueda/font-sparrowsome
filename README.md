@@ -13,3 +13,8 @@
 4. Pour enfin arriver dans la section "Mises à jour"
 5. Cochez la case "Vérifier les mises à jour"
 6. Dans le champs d'édition entrez le lien raw di fchier ``script.js`` (Le voici : [https://raw.githubusercontent.com/mroqueda/font-sparrowsome/main/script.js](https://raw.githubusercontent.com/mroqueda/font-sparrowsome/main/script.js))
+
+
+### Et pour tester ?
+
+On peut essayer ici : [https://fontawesome.com/icons/rocket-launch?s=duotone](https://fontawesome.com/icons/rocket-launch?s=duotone)
