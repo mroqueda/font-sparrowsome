@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Font Sparrowsome
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mroqueda/font-sparrowsome/
 // @version      1.0
 // @description  Oups, Font Awesome leaked
 // @author       mroqueda
