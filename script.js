@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Font Sparrowsome
 // @namespace    https://github.com/mroqueda/font-sparrowsome/
-// @version      1.1
+// @version      1.0
 // @description  Oups, Font Awesome leaked
 // @author       mroqueda
 // @updateURL    https://raw.githubusercontent.com/mroqueda/font-sparrowsome/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/mroqueda/font-sparrowsome/main/script.js
 // @match        https://fontawesome.com/icons/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=fontawesome.com
 // @grant        none
