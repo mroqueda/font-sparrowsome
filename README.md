@@ -7,4 +7,5 @@
 
 ### Et pour tester ?
 
-On peut essayer ici : [https://fontawesome.com/icons/rocket-launch?s=duotone](https://fontawesome.com/icons/rocket-launch?s=duotone)
+1. On peut essayer ici : [https://fontawesome.com/icons/rocket-launch?s=duotone](https://fontawesome.com/icons/rocket-launch?s=duotone)
+2. Cliquer sur le nouvel icon tout frais en haut a droite
